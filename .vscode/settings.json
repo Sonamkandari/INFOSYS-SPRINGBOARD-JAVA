@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         ".",
         "FOR-LOOP",
-        "OOPS-CONCEPTS"
+        "OOPS-CONCEPTS",
+        "OOPS-CONCEPTS\\THIS-CONCEPT"
     ],
     "java.project.referencedLibraries": []
 }
