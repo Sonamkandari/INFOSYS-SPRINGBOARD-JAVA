@@ -3,7 +3,8 @@
         ".",
         "FOR-LOOP",
         "OOPS-CONCEPTS",
-        "OOPS-CONCEPTS\\THIS-CONCEPT"
+        "OOPS-CONCEPTS\\THIS-CONCEPT",
+        "BASICS\\RECURSION"
     ],
     "java.project.referencedLibraries": []
 }
