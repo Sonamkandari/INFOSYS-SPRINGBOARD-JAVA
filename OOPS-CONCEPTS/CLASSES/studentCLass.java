@@ -2,11 +2,11 @@ package CLASSES;
 import java.util.Scanner;
 public class studentCLass {
     //creating a new data type -> with multiple Attributes
-    public static class student{
-        String name;//this is known as a class
-        int rollNo;
-        double percent;
-    }
+    // public static class student{
+    //     String name;//this is known as a class
+    //     int rollNo;
+    //     double percent;
+    // }
 
     //creating a another class
     public static class car{
@@ -42,7 +42,7 @@ public class studentCLass {
         a.name="XUV";
         a.Type="city car";
         a.ModelNo=789;
-        a.NoOfWheels=4;
+        a.NoOfWheels=7;
         System.out.println(a.name);
         System.out.println(a.Type);
         System.out.println(a.ModelNo);
