@@ -1,4 +1,4 @@
-package CONSTRUCTOR;
+
 class Customer {
     public String customerId;
     public String customerName;

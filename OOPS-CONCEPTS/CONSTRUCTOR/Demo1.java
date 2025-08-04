@@ -1,4 +1,4 @@
-package CONSTRUCTOR;
+
 public class Demo1 {
     public String customerId;
 	public String customerName;

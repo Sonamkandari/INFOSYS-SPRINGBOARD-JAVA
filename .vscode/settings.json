@@ -9,7 +9,8 @@
         "BASICS\\RECURSION\\MULTIBRANCH_RECUSION",
         "OOPS-CONCEPTS\\FINAL_KEYWORD",
         "OOPS-CONCEPTS\\STATIC_KEYWORD",
-        "OOPS-CONCEPTS\\CONSTRUCTOR"
+        "OOPS-CONCEPTS\\CONSTRUCTOR",
+        "OOPS-CONCEPTS\\CLASSES"
     ],
     "java.project.referencedLibraries": []
 }

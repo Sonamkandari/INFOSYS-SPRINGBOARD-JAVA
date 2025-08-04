@@ -1,5 +1,5 @@
 //Simple Constructor
-package CONSTRUCTOR;
+
 public class Demo3 {
     public int value = 20;
 

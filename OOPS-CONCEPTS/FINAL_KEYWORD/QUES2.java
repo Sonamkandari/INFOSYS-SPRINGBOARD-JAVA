@@ -1,4 +1,3 @@
-package FINAL_KEYWORD;
 
 public class QUES2 {
     final class Animal { }

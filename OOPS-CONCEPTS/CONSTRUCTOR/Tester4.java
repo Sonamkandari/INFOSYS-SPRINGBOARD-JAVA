@@ -1,6 +1,4 @@
 //parameterized constructor
-package CONSTRUCTOR;
-
 class Demo4 {
 	public int var1 = 20;
 	public int var2 = 40;

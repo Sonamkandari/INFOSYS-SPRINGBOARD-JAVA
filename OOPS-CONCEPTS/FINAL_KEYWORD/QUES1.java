@@ -1,4 +1,3 @@
-package FINAL_KEYWORD;
 public class QUES1 {
     //final method
      final void display() {
