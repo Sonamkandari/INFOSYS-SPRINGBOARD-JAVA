@@ -4,7 +4,9 @@
         "FOR-LOOP",
         "OOPS-CONCEPTS",
         "OOPS-CONCEPTS\\THIS-CONCEPT",
-        "BASICS\\RECURSION"
+        "BASICS\\RECURSION",
+        "BASICS",
+        "BASICS\\RECURSION\\MULTIBRANCH_RECUSION"
     ],
     "java.project.referencedLibraries": []
 }
