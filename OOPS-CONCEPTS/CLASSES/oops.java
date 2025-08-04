@@ -12,6 +12,17 @@ class Pen{
         System.out.println(this.color);
     }
 }
+
+//creating an another class
+class student{
+    String name;
+    int age;
+
+    public void printInfo(){
+        System.out.println(this.name);
+        System.out.println(this.age);
+    }
+}
 public class oops {
     public static void main(String[] args) {
         Pen myobj1=new Pen();
