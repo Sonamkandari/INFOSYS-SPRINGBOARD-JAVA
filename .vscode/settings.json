@@ -12,5 +12,6 @@
         "OOPS-CONCEPTS\\CONSTRUCTOR",
         "OOPS-CONCEPTS\\CLASSES"
     ],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.onBuildFailureProceed": true
 }
