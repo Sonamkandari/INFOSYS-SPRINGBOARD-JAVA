@@ -1,3 +1,4 @@
+//parameterized constructor
 package CONSTRUCTOR;
 
 class Demo4 {
