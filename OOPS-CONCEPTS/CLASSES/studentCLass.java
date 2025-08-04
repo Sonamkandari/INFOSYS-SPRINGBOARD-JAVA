@@ -60,9 +60,6 @@ public class studentCLass {
         System.out.println(b.ModelNo);
         System.out.println(b.NoOfWheels);
 
-
-
-
     }
     
 }
